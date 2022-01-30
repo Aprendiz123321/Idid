@@ -1,0 +1,39 @@
+body {
+  min-height: 100vh;
+  margin: 0;
+  background-image: url(images/books.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+@font-face{
+  font-family: temmau;
+  src: url(fuentes/tema1.ttf)
+}
+header{
+  font-family: temmau;
+  font-size: 50px;
+  text-align: center;
+  color:rgba(40, 224, 24, 0.53);
+
+}
+
+@font-face{
+  font-family: sub;
+  src: url(fuentes/sub.ttf);
+}
+h2{
+  font-family: sub;
+  font-size: 65px;
+}
+
+@font-face{
+  font-family: textoparrafo;
+  src: url(fuentes/textodescriptivo1.ttf);
+}
+p{
+  font-family: textoparrafo;
+  font-size: 32px;
+  text-decoration: none;

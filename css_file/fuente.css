@@ -1,0 +1,7 @@
+@font-face{
+	font-family: fuentegoogle;
+	src: url(fuentes/Neonderthaw-Regular.ttf);
+}
+body{
+	font-family: fuentegoogle;
+}

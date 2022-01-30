@@ -1,0 +1,27 @@
+*{
+  margin: 0
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.prueba{
+  width: 20%;
+  max-width: 1000px;
+  margin: auto;
+}
+.prueba img {
+  height: 200px;
+  width: 300px;
+  float: left;
+}
+
+@font-face
+ {
+  font-family: parrafo;
+  src: url(../font_style/font_p4.ttf);
+}
+
+.prueba p{
+  font-family: parrafo;
+  font-size: 20px;
+}
